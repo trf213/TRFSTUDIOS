@@ -18,6 +18,8 @@ a
 .redSection
 {
   background-color: rgb(255, 38, 0);
+  color: white;
+  border: none;
 }
 
 .image {
@@ -451,4 +453,8 @@ color: #FFF;
 .bg-bg:hover{ opacity: 0.7;
   color: white;
   }
+ .mytextarea{ 
+   font-size: 50px;
 
+   padding: 10;
+}
